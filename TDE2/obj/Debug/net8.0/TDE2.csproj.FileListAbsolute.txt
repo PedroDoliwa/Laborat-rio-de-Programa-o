@@ -1,0 +1,14 @@
+C:\Users\phdol\TDE2\bin\Debug\net8.0\TDE2.exe
+C:\Users\phdol\TDE2\bin\Debug\net8.0\TDE2.deps.json
+C:\Users\phdol\TDE2\bin\Debug\net8.0\TDE2.runtimeconfig.json
+C:\Users\phdol\TDE2\bin\Debug\net8.0\TDE2.dll
+C:\Users\phdol\TDE2\bin\Debug\net8.0\TDE2.pdb
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.AssemblyInfoInputs.cache
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.AssemblyInfo.cs
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.csproj.CoreCompileInputs.cache
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.dll
+C:\Users\phdol\TDE2\obj\Debug\net8.0\refint\TDE2.dll
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.pdb
+C:\Users\phdol\TDE2\obj\Debug\net8.0\TDE2.genruntimeconfig.cache
+C:\Users\phdol\TDE2\obj\Debug\net8.0\ref\TDE2.dll
