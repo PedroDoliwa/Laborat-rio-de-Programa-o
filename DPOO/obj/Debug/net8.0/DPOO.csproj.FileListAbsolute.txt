@@ -1,0 +1,14 @@
+C:\Users\phdol\DPOO\bin\Debug\net8.0\DPOO.exe
+C:\Users\phdol\DPOO\bin\Debug\net8.0\DPOO.deps.json
+C:\Users\phdol\DPOO\bin\Debug\net8.0\DPOO.runtimeconfig.json
+C:\Users\phdol\DPOO\bin\Debug\net8.0\DPOO.dll
+C:\Users\phdol\DPOO\bin\Debug\net8.0\DPOO.pdb
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.AssemblyInfoInputs.cache
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.AssemblyInfo.cs
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.csproj.CoreCompileInputs.cache
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.dll
+C:\Users\phdol\DPOO\obj\Debug\net8.0\refint\DPOO.dll
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.pdb
+C:\Users\phdol\DPOO\obj\Debug\net8.0\DPOO.genruntimeconfig.cache
+C:\Users\phdol\DPOO\obj\Debug\net8.0\ref\DPOO.dll
